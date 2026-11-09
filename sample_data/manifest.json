@@ -1,0 +1,1868 @@
+{
+  "schema": "lingbot_touch_real_samples_v2",
+  "frames_per_clip": 16,
+  "pairs_per_platform": 30,
+  "single_hand_files_per_platform": 60,
+  "samples": [
+    {
+      "platform": "sharpa",
+      "pair_id": "001",
+      "hand": "left",
+      "path": "sharpa/001_left.pt",
+      "sha256": "7ebd67acd19bfa3a7ff09c4cf2dc603613cf840d533a27059b894ea11fa3820b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "001",
+      "hand": "right",
+      "path": "sharpa/001_right.pt",
+      "sha256": "694c6c32830d9b65f00f23098f61d82c7c2e9a45b177672850146363de929035",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "002",
+      "hand": "left",
+      "path": "sharpa/002_left.pt",
+      "sha256": "a71447c77063ad3f273547a5ff27c572f6df82b9ff5e7a5872c17b5339fb069d",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "002",
+      "hand": "right",
+      "path": "sharpa/002_right.pt",
+      "sha256": "2648ffbacf9eb00ffc9259be134cfda347d3c1f545bf34436b7fa9f127eaa69b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "003",
+      "hand": "left",
+      "path": "sharpa/003_left.pt",
+      "sha256": "ab0785fb9e45c3eb38f467b15b2577d6b02163fc3958ec21b0360780d97c0ee6",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "003",
+      "hand": "right",
+      "path": "sharpa/003_right.pt",
+      "sha256": "95df8e9b1db55eeb156cf7f414ca34b096ee0cb22016874a3023baaf1ad92c97",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "004",
+      "hand": "left",
+      "path": "sharpa/004_left.pt",
+      "sha256": "e9ceb8938703d94f48bb8cbf896fabbf0f774c38a177922801c769b04c0bf53d",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "004",
+      "hand": "right",
+      "path": "sharpa/004_right.pt",
+      "sha256": "f4993975de0eda1e1c7a58670920303126fb1b4d6475fb0f8f971c5db1040307",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "005",
+      "hand": "left",
+      "path": "sharpa/005_left.pt",
+      "sha256": "2d6ef922b481efb8c0cef983ff6ad5f632f6754c2bd08338c3d1e57f66c8b9a5",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "005",
+      "hand": "right",
+      "path": "sharpa/005_right.pt",
+      "sha256": "33a3927bf341376fef593f466ed4db4c51e2bc24b1271617e66901943237c396",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "006",
+      "hand": "left",
+      "path": "sharpa/006_left.pt",
+      "sha256": "3f03cbb2859436b0c58936ee54fe347fc448b8810a2fc2d59f300ab8d4518145",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "006",
+      "hand": "right",
+      "path": "sharpa/006_right.pt",
+      "sha256": "9d004060c0567aceb22558dd0edf36254e1f8f2a3c68d18a447470a2266af66b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "007",
+      "hand": "left",
+      "path": "sharpa/007_left.pt",
+      "sha256": "212528a5fad24ff45de3b586f6bbc8ad8d99268ff467d4ca59eb3a1e55ac873e",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "007",
+      "hand": "right",
+      "path": "sharpa/007_right.pt",
+      "sha256": "7ccc742414531a390f2d100d7d774a535d2f2176d17059048339f85d8e151f9b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "008",
+      "hand": "left",
+      "path": "sharpa/008_left.pt",
+      "sha256": "baeeafa4e380201daacf49a84473b886f82e83e66db99e8827cb47739184e162",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "008",
+      "hand": "right",
+      "path": "sharpa/008_right.pt",
+      "sha256": "6b8dcc171f46a6ec03d0594359b750ba694288229fbbac9587053ed8001bbbfa",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "009",
+      "hand": "left",
+      "path": "sharpa/009_left.pt",
+      "sha256": "0902ef19147e20fce52e817def4118657fcaaa99b92925e11dcf727d5ce821df",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "009",
+      "hand": "right",
+      "path": "sharpa/009_right.pt",
+      "sha256": "af54749ab1d32f2c52ef843d80877af9d5cb11dd5676086c785bb42df5790e54",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "010",
+      "hand": "left",
+      "path": "sharpa/010_left.pt",
+      "sha256": "7519aea94d2b18ac48d9c299475e12f41471e7af6be1bfb0f89c57bda79555fa",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "010",
+      "hand": "right",
+      "path": "sharpa/010_right.pt",
+      "sha256": "689ca9d7146c6b5239ef2c7ae73c0a6fa3323b00e5d330c6a3296109ea5bb494",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "011",
+      "hand": "left",
+      "path": "sharpa/011_left.pt",
+      "sha256": "77ecc16b289d4a57fe8d3823683427223e23f98a6202cf657ae8bed5aae6b161",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "011",
+      "hand": "right",
+      "path": "sharpa/011_right.pt",
+      "sha256": "4625567f5aaec38f675d43fccb43e504d8fd33c71680900f6e59387e548cd2a8",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "012",
+      "hand": "left",
+      "path": "sharpa/012_left.pt",
+      "sha256": "0fb26c363d5c08031655c0087e815eaf358611d174f21aa6f1778ab5466df720",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "012",
+      "hand": "right",
+      "path": "sharpa/012_right.pt",
+      "sha256": "301e9881734d1986fdb38bad06285daf25a87a66ea6b8bfcb668ca8ad99bf420",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "013",
+      "hand": "left",
+      "path": "sharpa/013_left.pt",
+      "sha256": "c5e5b6563283719b96ac09be4dff4237ff90940f5d922fd27259d648e136440c",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "013",
+      "hand": "right",
+      "path": "sharpa/013_right.pt",
+      "sha256": "41aa71bcd2bf4a5fad869d8529c39991f7496e7abd8bb68285410ef325081246",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "014",
+      "hand": "left",
+      "path": "sharpa/014_left.pt",
+      "sha256": "a28fc7d9b189de30c71888779230432d154d766f6295e551b2cc08adc4fa6e51",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "014",
+      "hand": "right",
+      "path": "sharpa/014_right.pt",
+      "sha256": "6804f054ac273f6eb28df5e55b130bbe7599f66ed84075f6fb80acd845455636",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "015",
+      "hand": "left",
+      "path": "sharpa/015_left.pt",
+      "sha256": "cee9681da1f64f7c41f7ac5a6c62826080bd17b2583b1f2ddc1bd7bfe768fe61",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "015",
+      "hand": "right",
+      "path": "sharpa/015_right.pt",
+      "sha256": "43dbe2a3068eeaf6858afb587c32aa74c623120f28c62ede72c247046d9208ed",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "016",
+      "hand": "left",
+      "path": "sharpa/016_left.pt",
+      "sha256": "321fa1b61a6770167e7da5cfa2e622ca27b94489a38ced4fdb4bbac6bfc488f7",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "016",
+      "hand": "right",
+      "path": "sharpa/016_right.pt",
+      "sha256": "18ff9f1a6293a614a7a2ddc86fabfc861addf28f817d990fbad0827b0cff7223",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "017",
+      "hand": "left",
+      "path": "sharpa/017_left.pt",
+      "sha256": "e1416a129da4b58c9169ff778b7e199f9401fc84fd1e10a315fda89dfc0f2c97",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "017",
+      "hand": "right",
+      "path": "sharpa/017_right.pt",
+      "sha256": "909d17c968499915e2e844f08146f5e40b642ed3142b21a1027c49b033f6beb1",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "018",
+      "hand": "left",
+      "path": "sharpa/018_left.pt",
+      "sha256": "aa578917b090a165adff9dade5644ac80f06d45ce17fe5008287cf92e94d8b25",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "018",
+      "hand": "right",
+      "path": "sharpa/018_right.pt",
+      "sha256": "a5c8c148f14bc71097e4abab6e18bc2f217baf8cf9a4f7047cbb911b9e98e572",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "019",
+      "hand": "left",
+      "path": "sharpa/019_left.pt",
+      "sha256": "e445a1ce71c2ef93d1a7e9215f519665bb4bde64c02653241f150120ba4350d1",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "019",
+      "hand": "right",
+      "path": "sharpa/019_right.pt",
+      "sha256": "ea905cf8df0f8c77fafd594ae3397f0fcf7b07b87696a4901842f3b7886e5683",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "020",
+      "hand": "left",
+      "path": "sharpa/020_left.pt",
+      "sha256": "66a393581946c773633b84e83d21aa77b8cb894f9b4a7cc5506e33537133913a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "020",
+      "hand": "right",
+      "path": "sharpa/020_right.pt",
+      "sha256": "d3f36b246e3b250f2d02bc4cf15515681a4c1f557b72dd1672f2f44fb8527c3a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "021",
+      "hand": "left",
+      "path": "sharpa/021_left.pt",
+      "sha256": "a6ce1ac944ee04de9cb9dd93945b997aa1be1adc427047123303e39f0c194313",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "021",
+      "hand": "right",
+      "path": "sharpa/021_right.pt",
+      "sha256": "1f422e86bd5e5c74b644b5028fc683a13cf7db7f1441af56269454f3687d0084",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "022",
+      "hand": "left",
+      "path": "sharpa/022_left.pt",
+      "sha256": "e48c01b9302458ad6576f94c85bbbbe3f4b284adf793029061f075627d9c407e",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "022",
+      "hand": "right",
+      "path": "sharpa/022_right.pt",
+      "sha256": "fe7723bd9b500eb4d2389cbbefbf9050422612c9615fa1c60ad2c6cc6eb0ff0e",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "023",
+      "hand": "left",
+      "path": "sharpa/023_left.pt",
+      "sha256": "39f6451ed7b1d15958d0215df1ccedd7b064474140c327dd6d21b4e9e4a6fc96",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "023",
+      "hand": "right",
+      "path": "sharpa/023_right.pt",
+      "sha256": "89f79050d5d350fbf39530084d7c9e598c494bf0dfb54c9864f71cf7491b5932",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "024",
+      "hand": "left",
+      "path": "sharpa/024_left.pt",
+      "sha256": "067300188c1b79eb8b7e0e77beea31d2137955712ce56a5c1942f970d6a517ff",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "024",
+      "hand": "right",
+      "path": "sharpa/024_right.pt",
+      "sha256": "d05f5999818eb154005b777f18579174855e08942606c26bb543bfdbd89f0ccd",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "025",
+      "hand": "left",
+      "path": "sharpa/025_left.pt",
+      "sha256": "6fcd573c2e2029ff621ee98ad80648c07fcbae27c8b3eb65539d618e8dd7f233",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "025",
+      "hand": "right",
+      "path": "sharpa/025_right.pt",
+      "sha256": "d762119d13ab9e5ade49163d4b67008d53168e360c5d5f0d121122b653469c36",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "026",
+      "hand": "left",
+      "path": "sharpa/026_left.pt",
+      "sha256": "726d13f2e63d808d46693f0a44bf423346ae508e5cada7b249eca5ec91c1b664",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "026",
+      "hand": "right",
+      "path": "sharpa/026_right.pt",
+      "sha256": "6f327fd9ef6830c2c54b9e0808ed499ef72bbd12807132bc34a3b0e717eb7ae1",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "027",
+      "hand": "left",
+      "path": "sharpa/027_left.pt",
+      "sha256": "714246001f69d6f748973891d7679708988aea630f50c41c36936ccda18c63fe",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "027",
+      "hand": "right",
+      "path": "sharpa/027_right.pt",
+      "sha256": "8049042eae26f3adf3266da0aa2ac648d088de1d6073dc2a8036c962fbd68297",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "028",
+      "hand": "left",
+      "path": "sharpa/028_left.pt",
+      "sha256": "ecd9594b1ef3280661a100132b99aa4469b416cfd028b47d91f2b25b97a24cd2",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "028",
+      "hand": "right",
+      "path": "sharpa/028_right.pt",
+      "sha256": "a85cf94c209f42fd1b4238c22a2d4f5d1979d91b0874fd59ccca9a593b7044a7",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "029",
+      "hand": "left",
+      "path": "sharpa/029_left.pt",
+      "sha256": "c29db6853b3392be38840e560952977a01264a9f0bb01ff20b1f3c6ed16aa000",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "029",
+      "hand": "right",
+      "path": "sharpa/029_right.pt",
+      "sha256": "a1bb86598f04f59e62eac02229a0e22466ceebabfa3bf9c9a4c79c8fac54cf3f",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "030",
+      "hand": "left",
+      "path": "sharpa/030_left.pt",
+      "sha256": "bef9cfa175840993dd58213cdaf95cd521747361ba0c5b862c25e8ee75913154",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "sharpa",
+      "pair_id": "030",
+      "hand": "right",
+      "path": "sharpa/030_right.pt",
+      "sha256": "c3b70cd7ba5e23b44df6fe41ab576c83c6afffe9be595517f718b2ed4c214f5a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        200
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "visuotactile"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "001",
+      "hand": "left",
+      "path": "xhand/001_left.pt",
+      "sha256": "93e4bfccef0352758fa4074c545a2b4dbe48d3373c6f969767dadf0ec6197625",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "001",
+      "hand": "right",
+      "path": "xhand/001_right.pt",
+      "sha256": "c52134fee5b7b56407164271285b3febec57e8e57f2bfb66fd87b3ebab29ee48",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "002",
+      "hand": "left",
+      "path": "xhand/002_left.pt",
+      "sha256": "888e19aa0b3408556808d1b69d9d19600481f4677d8560512929823eb41934b7",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "002",
+      "hand": "right",
+      "path": "xhand/002_right.pt",
+      "sha256": "0b3b0cb8beaf8fb3328d2d111915fdeb39f71c2f0b968460e75397c43f577b94",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "003",
+      "hand": "left",
+      "path": "xhand/003_left.pt",
+      "sha256": "b90ce89e9c38d425f61396af4c5e4c3eb62e510e7253b65bfc5d024e2dc08a9d",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "003",
+      "hand": "right",
+      "path": "xhand/003_right.pt",
+      "sha256": "84b268b61595277aafd9060b4a88c0f7d329a19b001e9eac2dd88ad2bb548104",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "004",
+      "hand": "left",
+      "path": "xhand/004_left.pt",
+      "sha256": "add5117d34dc71d4298c0a97215678c29c7a33431aa608c0be9619ab88cac75f",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "004",
+      "hand": "right",
+      "path": "xhand/004_right.pt",
+      "sha256": "aaa421446b6e4d08aafa23e084a626524d050dc96233724fc99593200f5b3d6f",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "005",
+      "hand": "left",
+      "path": "xhand/005_left.pt",
+      "sha256": "02d45aea7990b31596785a5668cd95589d39132a512b2080026160e58e3a948b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "005",
+      "hand": "right",
+      "path": "xhand/005_right.pt",
+      "sha256": "155a187e82f7a9879c960b3c679160ae1923b4188dfe0d94c32b42cf038943ed",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "006",
+      "hand": "left",
+      "path": "xhand/006_left.pt",
+      "sha256": "570fc9ce2a96b8f874a304d5d1c82ff133847db5b5cbc1b89d3e0fc1bdc8e9a6",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "006",
+      "hand": "right",
+      "path": "xhand/006_right.pt",
+      "sha256": "e4aa74c0b34458072ab0f6409c08a0e68d7febe196990afc46c2bffd79c55188",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "007",
+      "hand": "left",
+      "path": "xhand/007_left.pt",
+      "sha256": "92ae87cf8836a093e4ba51e53c4129a63d3031b39cb4c88d6864db70312aea90",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "007",
+      "hand": "right",
+      "path": "xhand/007_right.pt",
+      "sha256": "3a39d8be5b99f422aa7d8147a9e027c58d51842e1a76e36000140e20deb98f66",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "008",
+      "hand": "left",
+      "path": "xhand/008_left.pt",
+      "sha256": "c3d250dab024aa5917d7629b7b6699bde9fe4c6257c85251cc29512669dbf07a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "008",
+      "hand": "right",
+      "path": "xhand/008_right.pt",
+      "sha256": "a146af2bd8b192dbbfa288e7c47bdbfddcea35f02a995980a339b0aa38b07da7",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "009",
+      "hand": "left",
+      "path": "xhand/009_left.pt",
+      "sha256": "66c29b315be2229d5d1f448cf5b807744cf14b5ea34bd8d7e9e933dbb23d6060",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "009",
+      "hand": "right",
+      "path": "xhand/009_right.pt",
+      "sha256": "534ad7dbd97f51cc9fa273ba6e19e3152b13fed60c30bb23a7f12fc44f054998",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "010",
+      "hand": "left",
+      "path": "xhand/010_left.pt",
+      "sha256": "8621a391aeb32e7fea314a5d57c41d62aac05d67b92367dfdeb88477433977ba",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "010",
+      "hand": "right",
+      "path": "xhand/010_right.pt",
+      "sha256": "0b77bae7f2421e778cae74b93f40f8991387479501f0c74a2d6357c4c788b06f",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "011",
+      "hand": "left",
+      "path": "xhand/011_left.pt",
+      "sha256": "bdd07edb7f47a4913b3bc63cb5e173cebad596f14f0e4a53086a49e992e6de52",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "011",
+      "hand": "right",
+      "path": "xhand/011_right.pt",
+      "sha256": "126b9f092e78a7823907690f48eaa0f55174cd6212aff83a1db063dd5c38979a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "012",
+      "hand": "left",
+      "path": "xhand/012_left.pt",
+      "sha256": "30ea0ba36292644ea0c2729610f7f4fa5439ff7dc11974450973211842249392",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "012",
+      "hand": "right",
+      "path": "xhand/012_right.pt",
+      "sha256": "5f7e4b9b54cd06e7c10b288b43d57c12096dbde94d4cb327287032bab678bd3a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "013",
+      "hand": "left",
+      "path": "xhand/013_left.pt",
+      "sha256": "4b0eff573084730b396ab4791989551b8bacb076aa612a97bbc147e3f1470073",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "013",
+      "hand": "right",
+      "path": "xhand/013_right.pt",
+      "sha256": "385b34237e44a8280f954641918cf2a02375ebe67b2ca58ce1e298990903c31f",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "014",
+      "hand": "left",
+      "path": "xhand/014_left.pt",
+      "sha256": "176c22c3043ef0b0e566830ba2f9d378dbe90005a6f71927f1b7ae5d12b8070b",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "014",
+      "hand": "right",
+      "path": "xhand/014_right.pt",
+      "sha256": "0645f094b6f48cc5fb63a51855d54f3c20dd2d8c64b9e17939a390784a87a372",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "015",
+      "hand": "left",
+      "path": "xhand/015_left.pt",
+      "sha256": "2f980129f9d1bbbd4824b361adbb329ba6b1abec49d3aa25b167f6e84c70dc0d",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "015",
+      "hand": "right",
+      "path": "xhand/015_right.pt",
+      "sha256": "30f4b38a722d1464423a24a92cdfa810b64208f88f598ec4810cbacc8f2cd1ba",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "016",
+      "hand": "left",
+      "path": "xhand/016_left.pt",
+      "sha256": "40584c5d49ad7f3b6efba5284f81a574a38f37bafbb15f235e3f4fcd57116772",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "016",
+      "hand": "right",
+      "path": "xhand/016_right.pt",
+      "sha256": "3d976af046a5b75317a976f19e8e64e4c4fefe67eeb8999316cca140c04d3aca",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "017",
+      "hand": "left",
+      "path": "xhand/017_left.pt",
+      "sha256": "2cf2dee4fb85a0ef97279ea201c75e052fed38113533feb88d2d4f95b532c52a",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "017",
+      "hand": "right",
+      "path": "xhand/017_right.pt",
+      "sha256": "f7fcefcff2ee0efc08f5ff13abc73fa0d0a2b9e0cafd74d2c785a6ec89d966a1",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "018",
+      "hand": "left",
+      "path": "xhand/018_left.pt",
+      "sha256": "a04eab703ba5028b12f4e7e5cf9574ffd6ac0db26fabc33c771e01462602bfce",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "018",
+      "hand": "right",
+      "path": "xhand/018_right.pt",
+      "sha256": "9a87a017d42ba77ee39955d3a20d92f70a220b27d5229519965d2a3582e8be5c",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "019",
+      "hand": "left",
+      "path": "xhand/019_left.pt",
+      "sha256": "da1c38ac2fdbaa386ba8a8ff630645ba928281a0574c60c4453df8f910fdef05",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "019",
+      "hand": "right",
+      "path": "xhand/019_right.pt",
+      "sha256": "ff951aa148db028878abbef83dd2a6c7a7941a2890e050b2fa578f7d0b3c72e6",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "020",
+      "hand": "left",
+      "path": "xhand/020_left.pt",
+      "sha256": "dc8fb78146bcc909e280885c0ec1b940e4468da65a6f656dbec44002b100254c",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "020",
+      "hand": "right",
+      "path": "xhand/020_right.pt",
+      "sha256": "e9bbf9e95ace9e1630108ed53142fcd53acb1786d56eaff1663cf82f90405678",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "021",
+      "hand": "left",
+      "path": "xhand/021_left.pt",
+      "sha256": "1451848c4d53b016539a7ba92bd7f1a18ddf4e08a82399822adeb3e812b86b81",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "021",
+      "hand": "right",
+      "path": "xhand/021_right.pt",
+      "sha256": "57eecafbd733d7782513449971ad5e50c3568ac1d713282ace2f06640b6f5f02",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "022",
+      "hand": "left",
+      "path": "xhand/022_left.pt",
+      "sha256": "a88faa2eca4f0df05a41b0c48fea03753bc03c6b52238d2ae2631edce06c50ac",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "022",
+      "hand": "right",
+      "path": "xhand/022_right.pt",
+      "sha256": "03adaaa51664a0438164aa04dcf76173331d936e4a1738c66bff641c4a57c1cb",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "023",
+      "hand": "left",
+      "path": "xhand/023_left.pt",
+      "sha256": "7ec2487defddf50e166a5859ab9212bba27ecee79765bdea19cf563c70b80cba",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "023",
+      "hand": "right",
+      "path": "xhand/023_right.pt",
+      "sha256": "08c42bb9db347c880aeca6f1cc604ea95490d122dec2639a627b0d5684c778b6",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "024",
+      "hand": "left",
+      "path": "xhand/024_left.pt",
+      "sha256": "f134d1ef7894fddc4885d25c7f05fe9159b101cfbd17d7276ba52013b4b8fa16",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "024",
+      "hand": "right",
+      "path": "xhand/024_right.pt",
+      "sha256": "d6953854df4265cad8c230068d2dd90d8d010f5095c7663f212e235ae8e31f99",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "025",
+      "hand": "left",
+      "path": "xhand/025_left.pt",
+      "sha256": "c67bd54de9ba142d75af86412841415155a469cb45976c0d07ea2ff378fe93f7",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "025",
+      "hand": "right",
+      "path": "xhand/025_right.pt",
+      "sha256": "c3fc115b2006e68c32ac78f6384e4bc618454434b6137ff10e19f7b81aa1dd02",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "026",
+      "hand": "left",
+      "path": "xhand/026_left.pt",
+      "sha256": "9d1b5d16d21102111947fa86c37d5c882e077bb52566241b4be175133a958a29",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "026",
+      "hand": "right",
+      "path": "xhand/026_right.pt",
+      "sha256": "fbb9cfe323a1994430c4ee160a184fe807c35f27a63dc84765fdf240e1b045f4",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "027",
+      "hand": "left",
+      "path": "xhand/027_left.pt",
+      "sha256": "43f355ffdcde0b69e0eb061ecd9385e409f1edf9ccdce062f083fe607681a4fb",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "027",
+      "hand": "right",
+      "path": "xhand/027_right.pt",
+      "sha256": "36c274123ab673ab252c40985c498127676b3f761d9c984044494e3c2fa90cfc",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "028",
+      "hand": "left",
+      "path": "xhand/028_left.pt",
+      "sha256": "035eb13ded3e6144fe6945250af9de6848b722e961b63a73fce0fae43b067597",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "028",
+      "hand": "right",
+      "path": "xhand/028_right.pt",
+      "sha256": "d4f2808721b7a264a0951e4a3331caf6fac2802b4e40a021b45360a63a612641",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "029",
+      "hand": "left",
+      "path": "xhand/029_left.pt",
+      "sha256": "1e0079b140b4fca809c39c5d5b6befbeb6d1b5eea8af3430b779c86f0dda723d",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "029",
+      "hand": "right",
+      "path": "xhand/029_right.pt",
+      "sha256": "53a753d74b963a8c23f9ccc584ecacdf8fe57c1cc66eb73c1b6bbc0c78ad7d69",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "030",
+      "hand": "left",
+      "path": "xhand/030_left.pt",
+      "sha256": "8a7ffa02d38bf21c3768fea4a0701d2d623740acce56f314e7f3a5cbc3fd59c5",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    },
+    {
+      "platform": "xhand",
+      "pair_id": "030",
+      "hand": "right",
+      "path": "xhand/030_right.pt",
+      "sha256": "a7dc31bebbd9f1ce2d6a98dda6b45a3e6c36855d82e7df4a309a9fc2b0c16720",
+      "raw_shape": [
+        1,
+        16,
+        5,
+        120,
+        3
+      ],
+      "raw_dtype": "torch.float32",
+      "modality": "magnetic"
+    }
+  ]
+}

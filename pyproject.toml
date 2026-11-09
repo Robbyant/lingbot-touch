@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools==81.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lingbot-touch"
+version = "0.5.0"
+description = "Standalone target encoder for tactile representation inference"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "Apache-2.0"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+dependencies = ["torch==2.11.0", "numpy==2.4.4"]
+
+[tool.setuptools]
+packages = ["tactile_jepa_inference", "data_interfaces"]
+include-package-data = false
+
+[tool.setuptools.package-data]
+data_interfaces = ["data/*.json"]
