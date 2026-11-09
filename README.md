@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="paper/Learning_Heterogeneous_Tactile_Representation_for_General_Dexterous_Manipulation_.pdf"><img src="assets/paper.svg" alt="Paper: PDF"></a>
+  <a href="paper/Learning_Heterogeneous_Tactile_Representation_for_General_Dexterous_Manipulation.pdf"><img src="assets/paper.svg" alt="Paper: PDF"></a>
   <img src="assets/project.svg" alt="Project: Website">
   <a href="https://huggingface.co/robbyant/lingbot-touch"><img src="assets/huggingface.svg" alt="Model: HuggingFace"></a>
   <a href="https://modelscope.cn/models/Robbyant/lingbot-touch"><img src="assets/modelscope.svg" alt="Model: ModelScope"></a>
@@ -46,7 +46,7 @@ We demonstrate four key properties:
   <img src="assets/pretraining.png" alt="LingBot-Touch pretraining: modality-specific tokenization, a shared Haptic Transformer with 5D RoPE, context prediction, and an EMA target encoder." width="100%">
 </p>
 
-LingBot-Touch learns unified representations of magnetic, piezoresistive, and visuotactile signals through masked prediction in latent space, using modality-specific tokenizers and a shared Transformer. See the [paper](paper/Learning_Heterogeneous_Tactile_Representation_for_General_Dexterous_Manipulation_.pdf) for method details.
+LingBot-Touch learns unified representations of magnetic, piezoresistive, and visuotactile signals through masked prediction in latent space, using modality-specific tokenizers and a shared Transformer. See the [paper](paper/Learning_Heterogeneous_Tactile_Representation_for_General_Dexterous_Manipulation.pdf) for method details.
 
 **Inference release.** This repository provides the frozen target encoder and utilities for extracting token-level tactile features and their spatiotemporal addresses.
 
