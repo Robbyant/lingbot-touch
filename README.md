@@ -56,8 +56,8 @@ LingBot-Touch learns unified representations of magnetic, piezoresistive, and vi
 
 | **Model** | **ModelScope** | **Hugging Face** |
 | --- | --- | --- |
-| LingBot-Touch-Tiny | [Download](https://modelscope.cn/models/Robbyant/lingbot-touch/files?version=master&root=lingbot-touch-tiny) | [Download](https://huggingface.co/robbyant/lingbot-touch/tree/main/lingbot-touch-tiny) |
-| LingBot-Touch-Small | [Download](https://modelscope.cn/models/Robbyant/lingbot-touch/files?version=master&root=lingbot-touch-small) | [Download](https://huggingface.co/robbyant/lingbot-touch/tree/main/lingbot-touch-small) |
+| LingBot-Touch-Tiny | [Download](https://modelscope.cn/models/Robbyant/lingbot-touch-tiny) | [Download](https://huggingface.co/robbyant/lingbot-touch-tiny) |
+| LingBot-Touch-Small | [Download](https://modelscope.cn/models/Robbyant/lingbot-touch-small) | [Download](https://huggingface.co/robbyant/lingbot-touch-small) |
 
 Download the matching `config.json` and `encoder.pt` from either platform and place them in `checkpoints/lingbot-touch-tiny/` or `checkpoints/lingbot-touch-small/`. Model files are hosted separately from this source repository. Access requires an account with permission to the model repository.
 
