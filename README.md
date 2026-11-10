@@ -9,8 +9,8 @@
 <p align="center">
   <a href="paper/Learning_Heterogeneous_Tactile_Representation_for_General_Dexterous_Manipulation.pdf"><img src="assets/paper.svg" alt="Paper: PDF"></a>
   <a href="https://technology.robbyant.com/lingbot-touch"><img src="assets/project.svg" alt="Project: Website"></a>
-  <a href="https://huggingface.co/robbyant/lingbot-touch"><img src="assets/huggingface.svg" alt="Model: HuggingFace"></a>
-  <a href="https://modelscope.cn/models/Robbyant/lingbot-touch"><img src="assets/modelscope.svg" alt="Model: ModelScope"></a>
+  <a href="https://huggingface.co/collections/robbyant/lingbot-touch"><img src="assets/huggingface.svg" alt="Model: HuggingFace"></a>
+  <a href="https://www.modelscope.cn/collections/Robbyant/LingBot-Touch"><img src="assets/modelscope.svg" alt="Model: ModelScope"></a>
   <a href="LICENSE"><img src="assets/license.svg" alt="License: Apache-2.0"></a>
 </p>
 

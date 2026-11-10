@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="98" height="28" viewBox="0 0 98 28" role="img" aria-label="Paper: PDF">
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="20" role="img" aria-label="Paper: PDF">
   <title>Paper: PDF</title>
-  <rect width="98" height="28" rx="5" fill="#475569"/>
-  <path d="M5 0h51v28H5a5 5 0 0 1-5-5V5a5 5 0 0 1 5-5z" fill="#111827"/>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">
-    <text x="28" y="18">Paper</text>
-    <text x="77" y="18">PDF</text>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="73" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="42" height="20" fill="#555"/>
+    <rect x="42" width="31" height="20" fill="#007ec6"/>
+    <rect width="73" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text aria-hidden="true" x="210" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="316">Paper</text>
+    <text x="210" y="140" transform="scale(.1)" textLength="316">Paper</text>
+    <text aria-hidden="true" x="575" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="214">PDF</text>
+    <text x="575" y="140" transform="scale(.1)" textLength="214">PDF</text>
   </g>
 </svg>
