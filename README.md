@@ -215,7 +215,7 @@ lingbot-touch/
 LingBot-Touch is licensed under the [Apache License, Version 2.0](LICENSE). Applicable third-party components retain their original licenses; see [Third-Party Notices](THIRD_PARTY_NOTICES.md).
 
 ## Citation
-
+```
 @article{han2026learningheterogeneoustactile,
   title={Learning Heterogeneous Tactile Representation for General Dexterous Manipulation},
   author={Bing Han and Yichuan Peng and Haoyu Dong and Yuanmeng Hu and Yongyi Jia and Fangjing Wang and Kecheng Zheng and Yiming Zhang and Yanhong Zeng and Xiaoqing Zhang and Chen Song and Rundong Zou and Anqi Dong and Yuan Guan and Ka Leong Cheng and Xing Zhu and Yujun Shen and Nan Xue and Wei Ning},
@@ -226,7 +226,7 @@ LingBot-Touch is licensed under the [Apache License, Version 2.0](LICENSE). Appl
   doi={10.48550/arXiv.2611.12806},
   url={https://arxiv.org/abs/2611.12806}
 }
-
+```
 ## Detailed Data Interface Guide
 
 We provide a detailed [data interface guide](DATA_INTERFACE_GUIDE.md). Read it directly or share it with your Agent for help understanding and using the interfaces. Have fun!
