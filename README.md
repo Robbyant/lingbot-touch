@@ -216,7 +216,16 @@ LingBot-Touch is licensed under the [Apache License, Version 2.0](LICENSE). Appl
 
 ## Citation
 
-The BibTeX entry will be added when the paper is available.
+@article{han2026learningheterogeneoustactile,
+  title={Learning Heterogeneous Tactile Representation for General Dexterous Manipulation},
+  author={Bing Han and Yichuan Peng and Haoyu Dong and Yuanmeng Hu and Yongyi Jia and Fangjing Wang and Kecheng Zheng and Yiming Zhang and Yanhong Zeng and Xiaoqing Zhang and Chen Song and Rundong Zou and Anqi Dong and Yuan Guan and Ka Leong Cheng and Xing Zhu and Yujun Shen and Nan Xue and Wei Ning},
+  year={2026},
+  eprint={2611.12806},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  doi={10.48550/arXiv.2611.12806},
+  url={https://arxiv.org/abs/2611.12806}
+}
 
 ## Detailed Data Interface Guide
 
