@@ -156,7 +156,7 @@ for HAND in left right; do
 done
 ```
 
-This mapping applies only to the verified XHand120 point-order and signal-axis conventions. If hardware or SDK changes the ordering, verify the mapping first; matching tensor shapes alone is insufficient.
+This mapping applies only to the verified XHand120 point-order and signal-axis conventions. If the hardware or SDK changes the ordering, verify the mapping first; matching tensor shapes alone is insufficient.
 
 #### Run All Samples and Read the Results
 
